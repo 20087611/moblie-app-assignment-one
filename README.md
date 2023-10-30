@@ -1,10 +1,11 @@
-README.md for Product App
-Introduction
-Welcome to the Product App, a simple and efficient application for managing products in a store. This application allows users to add, update, search, list, and delete product entries. It's built using Kotlin and TornadoFX, providing a user-friendly graphical interface for easy navigation and interaction.
+README.md for NanasTea App
 
-How to Use the App
+Introduction
+Welcome to the Waterford NanasTea App, a simple and efficient application for managing products stock in a store. This application allows users to add, update, search, list, and delete product entries. It's built using Kotlin and TornadoFX, providing a user-friendly graphical interface for easy navigation and interaction.
+
+How to Use the NanasTea App
 Getting Started
-To start using the Product App, you need to have Java and Kotlin installed on your machine. Clone the repository to your local machine to begin.
+To start using the NanasTea App, you need to have Java and Kotlin installed on your machine. Clone the repository to your local machine to begin.
 
 Features
 Add Product: Allows users to add new products to the store.
